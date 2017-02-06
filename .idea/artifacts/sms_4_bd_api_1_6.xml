@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sms-4-bd-api-1.6">
+    <output-path>$PROJECT_DIR$/out/artifacts/sms_4_bd_api_1_6</output-path>
+    <root id="archive" name="sms4bd-api-1.6_u3.jar">
+      <element id="module-output" name="sms4bd-api-java" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
